@@ -1,0 +1,26 @@
+/**PERFECTED LOGO**/
+
+
+
+/**CENTERED**/
+
+<div class="bighead">
+    <div class="brand" id="top"><h1>Erin's Semester Project</h1>
+	<div class="logo"><img style="horizontal-align:left;" src="img/logocrop.png" alt="logo" width="95">
+	</div> <!-- end of logo -->
+	</div> <!-- end of brand-->
+	
+    <div class="title-bar">Natural Recipes with Natural Tendencies</div>
+	</div> <!-- end of bighead -->
+	
+	
+/**LEFT BUT MOVED TEXT**/
+
+<div class="bighead">
+    <div class="brand" id="top"><div class="logo"><img style="float:left;vertical-align:center;margin:25px;" src="img/logocrop.png" alt="logo" width="110"></div>
+	<h1>Erin's Semester Project</h1>
+	 <!-- end of logo -->
+	</div> <!-- end of brand-->
+	
+    <div class="title-bar">Natural Recipes with Natural Tendencies</div>
+	</div> <!-- end of bighead -->	
