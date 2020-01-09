@@ -21,7 +21,9 @@ Start Bootstrap was created by and is maintained by **[David Miller](http://davi
 
 Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
 
-Finished website created by **[Erin L Cook](http://erinlorelle.com)
+Finished naturalrecipes website created by **Erin L Cook**, a graduate student in the computing department at East Tennessee State University
+* [https://github.com/erinlorelle](https://github.com/erinlorelle)
+* [https://erinlorelle.com](https://erinlorelle)
 
 ## Copyright and License
 
