@@ -6,9 +6,10 @@ The website contains recipes for natural home and beauty care as an alternative 
 
 ## Getting Started
 
+* Clone the repo: `git clone https://github.com/erinlorelle/naturalrecipes`
 * Locate the index.html file in the main folder
-* Open in a text editor such as [Notepad++](https://notepad-plus-plus.org/)
-* Run the index.html file on the local host by selecting Run in [Notepad++](https://notepad-plus-plus.org/) and then selecting your preferred browser.  Google and Firefox are preferred.
+* Open in a text editor such as [Notepad++](https://notepad-plus-plus.org/) or an IDE if connecting to the respository
+* Run the index.html file on the local host by selecting Run in [Notepad++](https://notepad-plus-plus.org/) and then selecting your preferred browser.  Google or Firefox are preferred.
 
 ## Bugs and Issues
 
