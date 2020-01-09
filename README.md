@@ -2,6 +2,8 @@
 
 A [Bootstrap](http://getbootstrap.com/) template from  was chosen as a basis for my first website project.  This was a project to demonstrate what I learned in the short 2 month course.  Using Bootstrap was not required, but was used to create a better looking site.
 
+The website contains recipes for natural home and beauty care as an alternative to commercial products.
+
 ## Getting Started
 
 * Locate the index.html file in the main folder
